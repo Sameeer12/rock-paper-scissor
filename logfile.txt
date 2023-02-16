@@ -1,0 +1,13 @@
+Info: Started logging system.
+Debug: Human entered the game.
+Debug: Machine entered the game.
+Info: Starting Game of Rock, Paper, Scissors! Session 1
+Debug: Got CPU input: Rock
+Debug: Got User input: Rock
+Debug: It's a tie!
+Info: Starting Game of Rock, Paper, Scissors! Session 2
+Debug: Got CPU input: Paper
+Debug: Got User input: Scissors
+Debug: Human won!
+Info: Sessions played: 2
+Info: Stopped logging system.
